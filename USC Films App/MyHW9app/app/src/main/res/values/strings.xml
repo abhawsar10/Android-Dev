@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">USC Films</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="api_url">https://abhawsar.uc.r.appspot.com/apis/endpoints/</string>
+    <!--
+    <string name="api_url">https://localhost:8080/apis/endpoints/</string>
+    -->
+</resources>
